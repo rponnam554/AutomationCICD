@@ -24,6 +24,7 @@ public class StandAloneTest {
 	public static void main(String[] args) throws InterruptedException {
 		
 		//new comments added
+		//new comments added
 		String productname = "ZARA COAT 3";
 
 		WebDriverManager.chromedriver().setup();
