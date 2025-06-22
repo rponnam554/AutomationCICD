@@ -22,6 +22,8 @@ import org.openqa.selenium.interactions.Actions;
 public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
+		
+		//new comments added
 		String productname = "ZARA COAT 3";
 
 		WebDriverManager.chromedriver().setup();
